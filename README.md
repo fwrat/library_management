@@ -1,2 +1,7 @@
-# library_management
-library_management
+## Library Management
+
+App for managing Articles, Members, Memberships and Transactions for Libraries
+
+#### License
+
+GNU General Public License
